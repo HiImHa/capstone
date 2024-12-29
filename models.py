@@ -3,10 +3,6 @@ from sqlalchemy import Column, String, create_engine
 from flask_sqlalchemy import SQLAlchemy
 import json
 
-from dotenv import load_dotenv
-import os
-load_dotenv()
-
 # database_path = os.getenv('DATABASE_URL')
 
 # if database_path.startswith("postgres://"):
