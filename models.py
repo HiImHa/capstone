@@ -10,9 +10,9 @@ load_dotenv()
 database_path = os.environ['DATABASE_URL']
 # database_path = os.getenv('DATABASE_URL')
 
-if database_path.startswith("postgres://"):
-  database_path = database_path.replace("postgres://", "postgresql://", 1)
-
+# if database_path.startswith("postgres://"):
+#   database_path = database_path.replace("postgres://", "postgresql://", 1)
+database_path = "postgresql://capstone_d75w_user:jYiDwuMO43B6bz2Fdx1zfXob20FJcc69@dpg-ctoc46dsvqrc73b7j6ug-a/capstone_d75w"
 db = SQLAlchemy()
 
 '''
