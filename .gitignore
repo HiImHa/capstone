@@ -1,0 +1,39 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignore virtual environment directories
+venv/
+myenv/
+env/
+ENV/
+
+#Ingore .env
+.env
+
+# Ignore IDE/editor files (if using Visual Studio Code)
+.vscode/
+
+# Ignore Flask-related files
+instance/
+*.log
+*.pot
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories
+build/
+dist/
+.eggs/
+
+# Ignore pipenv files
+Pipfile.lock
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
