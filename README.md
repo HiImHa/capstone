@@ -1,3 +1,7 @@
+## URL Host
+
+- https://capstone-3lm8.onrender.com/
+
 # Book Publisher Project
 
 Udacity Full-Stack Web Developer Nanodegree Program Capstone Project
@@ -7,10 +11,6 @@ Udacity Full-Stack Web Developer Nanodegree Program Capstone Project
 The Book Publisher Project models a store that is responsible for creating books and managing and assigning authors to those books.
 
 This project is simply a workspace for practicing and showcasing different set of skills related with web development. These include data modelling, API design, authentication and authorization and cloud deployment.
-
-## Hosted Application
-
-- https://capstone-3lm8.onrender.com/
 
 ## Getting Started
 
