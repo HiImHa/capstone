@@ -11,7 +11,8 @@ load_dotenv()
 
 # if database_path.startswith("postgres://"):
 #   database_path = database_path.replace("postgres://", "postgresql://", 1)
-database_path = "postgresql://capstone_d75w_user:jYiDwuMO43B6bz2Fdx1zfXob20FJcc69@dpg-ctoc46dsvqrc73b7j6ug-a/capstone_d75w"
+database_path = "postgresql://capstone_d75w_user:jYiDwuMO43B6bz2Fdx1zfXob20FJcc69@dpg-ctoc46dsvqrc73b7j6ug-a.oregon-postgres.render.com/capstone_d75w"
+
 db = SQLAlchemy()
 
 '''
