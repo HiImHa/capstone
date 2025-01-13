@@ -1,7 +1,3 @@
-## URL Host
-
-- https://capstone-3lm8.onrender.com/
-
 # Book Publisher Project
 
 Udacity Full-Stack Web Developer Nanodegree Program Capstone Project
